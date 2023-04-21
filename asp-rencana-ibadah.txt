@@ -4,6 +4,7 @@ RENCANA IBADAH ASP
 - Khatam Qur'an
   * 1 hari 1 juz
     ^sekalian tadabbur artinya
+    ^ asal mula turunnya ayat
 - Hafal Juz 30
   * sekalian maknanya
 - zikir pagi/petang
