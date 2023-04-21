@@ -3,7 +3,9 @@ RENCANA IBADAH ASP
 - Puasa senin/kamis
 - Khatam Qur'an
   * 1 hari 1 juz
-    ^ hitung jumlah ayat
-    ^ tadabbur ayat
+    ^sekalian tadabbur artinya
+    ^ asal mula turunnya ayat
 - Hafal Juz 30
-
+  * sekalian maknanya
+- zikir pagi/petang
+- hafal hadist
